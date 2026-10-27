@@ -1,0 +1,10 @@
+# Ce depot ne porte que des livrables publies en release. Rien de ce que
+# fabrique une machine n'a de raison d'y entrer.
+.vscode/
+.idea/
+.vs/
+*.iml
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
